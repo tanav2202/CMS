@@ -1,2 +1,2 @@
-# CMS
-creating CMS using LAMP Stack
+# Content Management System
+Simple Content Management System Under Construction
